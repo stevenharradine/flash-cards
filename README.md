@@ -1,6 +1,9 @@
 # flash-cards
 Loads a json file with a term and definition and randomly displays a term for you to define.
 
+## Screenshot
+![Sample screenshot](https://github.com/stevenharradine/flash-cards/blob/master/screen.png)
+
 ## usage
 Run the server while passing in your the path of your flashcards file.
 ```
