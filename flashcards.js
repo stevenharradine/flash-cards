@@ -1,4 +1,4 @@
-module.exports.descriptionlist = [{
+var flashcards = [{
 	"term":"Absolute zero",
 	"definition": "The lowest tempature possible where all motion stops, 0K or -273.15&deg;C",
 	"category": "Physics"
